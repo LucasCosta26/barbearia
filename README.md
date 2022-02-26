@@ -11,6 +11,5 @@ Pois bem, caso você entre na page usando um celular (por favor faça isso) e ob
 Fiquei até satisfeito com o que consegui fazer. Demorei 1 dia e meio para fazer(foidesesperototal kkk).
 
 
-Obs: caso você entre na 'page', você observará que há erros quanto a saida de tag e conteúdos (eu ainda nao sei corrigir isso aqui no github - assim que souber irei fazer), caso você saiba, ajude-me. Obrigado.
 
-Aqui esta a página: https://lucascosta26.github.io/barbearia-versao-alura/index.html
+Aqui esta a página: https://lucascosta26.github.io/barbearia/index.html
