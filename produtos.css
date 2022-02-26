@@ -77,8 +77,9 @@ header {
 
 
 footer {
+  position: fixed;
+  width: 100%;
   margin-top: 2%;
-  height: 5%;
   bottom: 0;
   color: white;
   text-align: center;
